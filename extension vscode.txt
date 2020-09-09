@@ -7,8 +7,5 @@ Daftar Extensi yang berguna untuk VScode
 5. CSS Peek
 6. One Dark Pro (Themes)
 7. PHP IntelliSense
-8. PHP IntelliSense
-9. Sublime Text Keymap
-10. vscode-icons
-
-
+8. Sublime Text Keymap
+9. vscode-icons
