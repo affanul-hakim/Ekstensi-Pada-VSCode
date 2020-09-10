@@ -1,11 +1,12 @@
 Daftar Extensi yang berguna untuk VScode
 
-1. Auto Rename Tag
-2. Beautify
-3. Bootstrap v4 Snippets for VS Code
-4. Bracket Pair Colorizer
-5. CSS Peek
-6. One Dark Pro (Themes)
-7. PHP IntelliSense
-8. Sublime Text Keymap
-9. vscode-icons
+Auto Rename Tag
+Beautify
+Bootstrap v4 Snippets for VS Code
+Bracket Pair Colorizer
+CSS Peek
+One Dark Pro (Themes)
+PHP IntelliSense
+Sublime Text Keymap
+vscode-icons
+PHP intellisense for codeigniter
